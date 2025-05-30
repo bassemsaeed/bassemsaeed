@@ -9,6 +9,6 @@
 - **Other:** Linux, Vim, Figma
 
 ## Connect with me 
-- [LinkedIn – your-name](https://www.linkedin.com/in/bassem-saeed-7b4a61298/)
+- [LinkedIn](https://www.linkedin.com/in/bassem-saeed-7b4a61298/)
   
 
