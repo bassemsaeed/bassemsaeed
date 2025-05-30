@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I’m Basse
 
-<!--
-**bassemsaeed/bassemsaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ My Toolbox
 
-Here are some ideas to get you started:
+- **Languages:** JavaScript (ES6+), TypeScript, Python  
+- **Front-end:** React, Next.js, Tailwind CSS  
+- **Back-end:** Node.js, Express, PostgreSQL, MongoDB  
+- **Cloud & DevOps:** AWS (Lambda, S3), Docker, GitHub Actions  
+- **Other:** Linux, Vim, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me 
+- [LinkedIn – your-name](https://www.linkedin.com/in/bassem-saeed-7b4a61298/)
+  
+
